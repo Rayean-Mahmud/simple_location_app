@@ -12,7 +12,7 @@ This is a simple Flutter app that allows users to input a location and display i
 - Google Maps Flutter package and APIs.
 
 ## Screenshots:
-### 1. Location App Screen:
+###  Location App Screen:
 ![Location App](location_app.png)
 
 
