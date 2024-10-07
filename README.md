@@ -10,9 +10,6 @@ This is a simple Flutter app that allows users to input a location and display i
 
 ## Screenshots:
 ### 1. Location Input Screen:
-![Location Input Screen](screenshots/location_input_screen.png)
-
-### 2. Map Screen:
-![Map Screen](screenshots/map_screen.png)
+![Location App](image/location_app.png)
 
 
