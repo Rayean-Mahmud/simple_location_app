@@ -5,11 +5,9 @@ This is a simple Flutter app that allows users to input a location and display i
 ## Features:
 - **Location Input**: Users can enter a location through a text field.
 - **Display Location on Map**: The entered location is displayed on the map.
-- **Map Type Switching**: Users can toggle between normal, satellite, and terrain map types.
-- **Current Location Detection**: Users can detect and display their current location on the map.
 
 ## Screenshots:
 ### 1. Location Input Screen:
-![Location App](image/location_app.png)
+![Location App](location_app.png)
 
 
